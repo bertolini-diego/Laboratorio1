@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Projects\aapcs\aapcs.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\asm_example\asm_example.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\exceptions_sim\exceptions_sim.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\lab_1\lab_1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\lab_2\lab_2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\laboratorio_1_Diego\laboratorio_1_Diego.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
